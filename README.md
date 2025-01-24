@@ -5,7 +5,7 @@
 - <b>Labs</b>
   - [Scanning Networks Lab](https://github.com/DannyRRios/Scanning-Networks-Lab/tree/main)
   - [Enumeration Lab](https://github.com/DannyRRios/Enumeration-Lab/tree/main)
-  - [Lab 3](https://github.com/DannyRRios/CEH-Lab-2/tree/main)
+  - [Vulnerability Analysis Lab](https://github.com/DannyRRios/Vulnerability-Analysis)
   - [Lab 4](https://github.com/DannyRRios/CEH-Lab-2/tree/main)
   - [Lab 5](https://github.com/DannyRRios/CEH-Lab-2/tree/main)
   - [Lab 6](https://github.com/DannyRRios/CEH-Lab-2/tree/main)
