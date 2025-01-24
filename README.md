@@ -8,7 +8,7 @@
   - [Vulnerability Analysis Lab](https://github.com/DannyRRios/Vulnerability-Analysis)
   - [System Hacking Lab](https://github.com/DannyRRios/System-Hacking)
   - [Malware Threats Lab](https://github.com/DannyRRios/Malware-Threats/tree/main)
-  - [Lab 6](https://github.com/DannyRRios/CEH-Lab-2/tree/main)
+  - [Sniffing Lab](https://github.com/DannyRRios/Sniffing)
   - [Lab 7](https://github.com/DannyRRios/CEH-Lab-2/tree/main)
   - [Lab 8](https://github.com/DannyRRios/CEH-Lab-2/tree/main)
   - [Lab 9](https://github.com/DannyRRios/CEH-Lab-2/tree/main)
