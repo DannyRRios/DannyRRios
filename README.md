@@ -16,7 +16,7 @@
   - [Hacking Web Applications Lab](https://github.com/DannyRRios/Hacking-Web-Applications/tree/main)
   - [SQL Injection Lab](https://github.com/DannyRRios/SQL-Injection/tree/main)
   - [Hacking Wireless Networks Lab](https://github.com/DannyRRios/Hacking-Wireless-Networks)
-  - [Lab 14](https://github.com/DannyRRios/CEH-Lab-2/tree/main)
+  - [Hacking Mobile Platforms Lab](https://github.com/DannyRRios/Hacking-Mobile-Platforms/tree/main)
   - [Lab 15](https://github.com/DannyRRios/CEH-Lab-2/tree/main)
   - [Lab 16](https://github.com/DannyRRios/CEH-Lab-2/tree/main)
   - [Lab 17](https://github.com/DannyRRios/CEH-Lab-2/tree/main)
