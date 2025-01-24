@@ -35,7 +35,7 @@
   
 <h2>♦️ YouTube ♦️ </h2>
 
-- [Name Of video ](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Nothing posted to date](https://www.youtube.com)
 
 <h2> 📡 Connect with me:</h2>
 
@@ -43,7 +43,7 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[youtube]: https://www.youtube.com/c/joshmadakor
+[youtube]: https://www.youtube.com/
 [linkedin]: https://www.linkedin.com/in/danny-rangel-rios/
 
 <!--
