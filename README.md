@@ -3,7 +3,7 @@
 <h2>💻 Cyber Security Projects:</h2>
 
 - <b>Labs</b>
-  - [Lab 1](https://github.com/DannyRRios/CEH-Lab-2/tree/main)
+  - [Scanning Networks Lab](https://github.com/DannyRRios/Scanning-Networks-Lab/tree/main)
   - [Lab 2](https://github.com/DannyRRios/CEH-Lab-2/tree/main)
   - [Lab 3](https://github.com/DannyRRios/CEH-Lab-2/tree/main)
   - [Lab 4](https://github.com/DannyRRios/CEH-Lab-2/tree/main)
