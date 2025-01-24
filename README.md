@@ -4,6 +4,24 @@
 
 - <b>Labs</b>
   - [Lab 1](https://github.com/DannyRRios/CEH-Lab-2/tree/main)
+  - [Lab 2](https://github.com/DannyRRios/CEH-Lab-2/tree/main)
+  - [Lab 3](https://github.com/DannyRRios/CEH-Lab-2/tree/main)
+  - [Lab 4](https://github.com/DannyRRios/CEH-Lab-2/tree/main)
+  - [Lab 5](https://github.com/DannyRRios/CEH-Lab-2/tree/main)
+  - [Lab 6](https://github.com/DannyRRios/CEH-Lab-2/tree/main)
+  - [Lab 7](https://github.com/DannyRRios/CEH-Lab-2/tree/main)
+  - [Lab 8](https://github.com/DannyRRios/CEH-Lab-2/tree/main)
+  - [Lab 9](https://github.com/DannyRRios/CEH-Lab-2/tree/main)
+  - [Lab 10](https://github.com/DannyRRios/CEH-Lab-2/tree/main)
+  - [Lab 11](https://github.com/DannyRRios/CEH-Lab-2/tree/main)
+  - [Lab 12](https://github.com/DannyRRios/CEH-Lab-2/tree/main)
+  - [Lab 13](https://github.com/DannyRRios/CEH-Lab-2/tree/main)
+  - [Lab 14](https://github.com/DannyRRios/CEH-Lab-2/tree/main)
+  - [Lab 15](https://github.com/DannyRRios/CEH-Lab-2/tree/main)
+  - [Lab 16](https://github.com/DannyRRios/CEH-Lab-2/tree/main)
+  - [Lab 17](https://github.com/DannyRRios/CEH-Lab-2/tree/main)
+  - [Lab 18](https://github.com/DannyRRios/CEH-Lab-2/tree/main)
+  - [Lab 19](https://github.com/DannyRRios/CEH-Lab-2/tree/main)
 - <b>Python</b>
   - [Python Space Invaders Game](https://github.com/DannyRRios/Python-Space-Invaders-Game)
 
