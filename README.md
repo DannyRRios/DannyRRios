@@ -11,7 +11,7 @@
   - [Sniffing Lab](https://github.com/DannyRRios/Sniffing)
   - [DOS Lab](https://github.com/DannyRRios/DOS/tree/main)
   - [Session Hijacking Lab](https://github.com/DannyRRios/Session-Hijacking/tree/main)
-  - [Lab 9](https://github.com/DannyRRios/CEH-Lab-2/tree/main)
+  - [Evading IDS, Firewalls and Honeypots Lab](https://github.com/DannyRRios/Evading-IDS-Firewalls-and-Honeypots)
   - [Lab 10](https://github.com/DannyRRios/CEH-Lab-2/tree/main)
   - [Lab 11](https://github.com/DannyRRios/CEH-Lab-2/tree/main)
   - [Lab 12](https://github.com/DannyRRios/CEH-Lab-2/tree/main)
