@@ -17,11 +17,8 @@
   - [SQL Injection Lab](https://github.com/DannyRRios/SQL-Injection/tree/main)
   - [Hacking Wireless Networks Lab](https://github.com/DannyRRios/Hacking-Wireless-Networks)
   - [Hacking Mobile Platforms Lab](https://github.com/DannyRRios/Hacking-Mobile-Platforms/tree/main)
-  - [Lab 15](https://github.com/DannyRRios/CEH-Lab-2/tree/main)
-  - [Lab 16](https://github.com/DannyRRios/CEH-Lab-2/tree/main)
-  - [Lab 17](https://github.com/DannyRRios/CEH-Lab-2/tree/main)
-  - [Lab 18](https://github.com/DannyRRios/CEH-Lab-2/tree/main)
-  - [Lab 19](https://github.com/DannyRRios/CEH-Lab-2/tree/main)
+  - [Cryptography Lab](https://github.com/DannyRRios/Cryptography/tree/main)
+    
 - <b>Python</b>
   - [Python Space Invaders Game](https://github.com/DannyRRios/Python-Space-Invaders-Game)
 
