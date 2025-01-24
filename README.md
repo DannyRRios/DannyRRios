@@ -13,7 +13,7 @@
   - [Session Hijacking Lab](https://github.com/DannyRRios/Session-Hijacking/tree/main)
   - [Evading IDS, Firewalls and Honeypots Lab](https://github.com/DannyRRios/Evading-IDS-Firewalls-and-Honeypots)
   - [Hacking Web Servers Lab](https://github.com/DannyRRios/Hacking-Web-Servers/tree/main)
-  - [Lab 11](https://github.com/DannyRRios/CEH-Lab-2/tree/main)
+  - [Hacking Web Applications Lab](https://github.com/DannyRRios/Hacking-Web-Applications/tree/main)
   - [Lab 12](https://github.com/DannyRRios/CEH-Lab-2/tree/main)
   - [Lab 13](https://github.com/DannyRRios/CEH-Lab-2/tree/main)
   - [Lab 14](https://github.com/DannyRRios/CEH-Lab-2/tree/main)
