@@ -5,7 +5,7 @@
 - <b>Labs</b>
   - [Lab 1](https://github.com/DannyRRios/CEH-Lab-2/tree/main)
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Python Space Invaders Game](https://github.com/DannyRRios/Python-Space-Invaders-Game)
 
 <h2>👨‍💻 Certifications:</h2>
 
