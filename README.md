@@ -1,6 +1,6 @@
 <h1>Hi, I'm Danny! <br/><a href="https://github.com/DannyRRios">IT Specialist II </a>, <a href="https://www.linkedin.com/in/danny-rangel-rios/">Cybersecurity Professional</a></h1>
 
-<h2>👨‍💻 Cyber Security Projects:</h2>
+<h2>💻 Cyber Security Projects:</h2>
 
 - <b>Labs</b>
   - [Lab 1](https://github.com/DannyRRios/CEH-Lab-2/tree/main)
@@ -25,7 +25,7 @@
 - <b>Python</b>
   - [Python Space Invaders Game](https://github.com/DannyRRios/Python-Space-Invaders-Game)
 
-<h2>👨‍💻 Certifications:</h2>
+<h2>📃 Certifications:</h2>
 
 - <b>Certified Ethical Hacker (CEH)</b>
    - Provided by EC Council
