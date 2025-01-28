@@ -3,6 +3,7 @@
 <h2>💻 Cyber Security Projects:</h2>
 
 - <b>Labs</b>
+I have completed each one of these labs multiple times in prepartion for the CEH as well as after to keep myself updated on these skills.
   - [Scanning Networks Lab](https://github.com/DannyRRios/Scanning-Networks-Lab/tree/main)
   - [Enumeration Lab](https://github.com/DannyRRios/Enumeration-Lab/tree/main)
   - [Vulnerability Analysis Lab](https://github.com/DannyRRios/Vulnerability-Analysis)
