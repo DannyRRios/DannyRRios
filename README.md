@@ -30,11 +30,11 @@ I have completed each one of these labs multiple times in prepartion for the CEH
 
 - <b>Certified Ethical Hacker (CEH)</b> - Dec 2023
    - Provided by EC Council
-- <b>Security+ </b> June 2024
+- <b>Security+ </b> - June 2024
    - Provided by CompTIA
 - <b>ITIL Foundation</b> - Feb 2022
    - Provided by PeopleCert
-- <b>Infrastructure Technician (CCNA), Level 1</b> May 2022
+- <b>Infrastructure Technician (CCNA), Level 1</b> - May 2022
    - Provided by Collin County Community College
   
 
