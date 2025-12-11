@@ -37,9 +37,6 @@ I have completed each one of these labs multiple times in prepartion for the CEH
 - <b>Infrastructure Technician (CCNA), Level 1</b>
    - Provided by Collin County Community College
   
-<h2>♦️ YouTube ♦️ </h2>
-
-- [Nothing posted to date](https://www.youtube.com)
 
 <h2> 📡 Connect with me:</h2>
 
